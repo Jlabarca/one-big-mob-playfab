@@ -7,5 +7,6 @@ namespace Jlabarca.OneBigMob.ScriptableObjects
     public class Configuration : ScriptableObject
     {
         public UnitView unitView;
+        public TileView tileView;
     }
 }
